@@ -1,5 +1,3 @@
 hai
 
 how are you?
-
-
